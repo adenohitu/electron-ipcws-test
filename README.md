@@ -79,3 +79,10 @@ npm run make
 - Electron
 - TypeScript
 - WebSocket (ws)
+
+## 結果サンプル
+
+<img width="816" alt="スクリーンショット 2025-03-29 18 28 19" src="https://github.com/user-attachments/assets/359e2a23-96e6-4dbe-9bd5-8a72ca0c2c3d" />  
+<img width="847" alt="スクリーンショット 2025-03-29 18 22 40" src="https://github.com/user-attachments/assets/f5ec16b4-452c-4717-819c-9265f6cfdc7f" />
+
+
