@@ -1,5 +1,7 @@
 # Electron IPC vs WebSocket 通信テスト  
 All code written by LLM
+This survey was conducted entirely by AI, so there is no guarantee of results.  
+
 
 このプロジェクトは、Electron アプリケーションにおける IPC (Inter-Process Communication) と WebSocket 通信の性能比較を目的としたテストアプリケーションです。
 
